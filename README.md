@@ -1,10 +1,10 @@
 # demoapp2
 
-A new Flutter project.
+A new Flutter project which is simple and easy to develop it.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Flutter application in my journey.
 
 A few resources to get you started if this is your first Flutter project:
 
